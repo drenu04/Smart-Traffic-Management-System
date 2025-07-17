@@ -29,4 +29,4 @@ This project implements a **Verilog HDL-based Smart Traffic Management System** 
 
 - Dharavath Renu
 
-> Developed under the **Undergraduate Summer Research Fellowship (USRF) 2025** at **Amity University, Noida**, under the mentorship of **Prof. M.K. Dutta**, **Dr. Nidhi Gaur**, and **Dr. Pradeep Kumar**.
+> Developed under the **Undergraduate Summer Research Fellowship (USRF) 2025** at **Amity University, Noida**, under the mentorship of **Dr. Nidhi Gaur**, and **Dr. Pradeep Kumar**.
